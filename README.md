@@ -6,3 +6,4 @@ Email: Naveed.gce@gmail.com
 Mob.No: 9620483405
 College Name: GITW
 Place: Bangalore
+Date Of Joining: 1st Oct-2023
