@@ -4,8 +4,11 @@ Last Name: Naveed
 Email: naveed.gce@gmail.com
 Mob. No: 9620483405
 Address: Bangalore
+<<<<<<< HEAD
 UG Degree: B.E – Mechanical Engineering
 PG Degree; M.Tech – Manufacturing
 PhD Degree: Materials Science
 
+=======
+>>>>>>> 5c7d30e (Removed Qualification Details Successfully)
 
